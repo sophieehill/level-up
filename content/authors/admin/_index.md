@@ -6,7 +6,7 @@ title: Dr. Tony Hill
 superuser: false
 
 # Role/position
-role: Funder / Co-creator of the Levelling Up scheme
+role: Funder & Co-creator
 
 # Organizations/Affiliations
 organizations:
@@ -58,5 +58,13 @@ highlight_name: false
 # user_groups:
 # - Researchers
 ---
+
+Dr. Tony Hill was formerly a teacher in the North East before, in the 1970s, pursuing a career in the software industry. He went on to become Chief Executive Officer of Micro Focus, leading the company to a successful float on the London Stock Exchange in 2005.
+
+Since retiring, he has earned a PhD in mathematics - his second! - at Kings College London.
+
+Having grown up on a council estate and being the first in his family to attend university, Dr. Hill is passionate about widening participation in higher education. He hopes that the Levelling Up scheme will provide support to a new generation of students from under-represented backgrounds.
+
+Aside from mathematics and philanthropy, Dr. Hill is also a keen long-distance runner and walker. In 2014, he became a "Centurion" after walking 100 miles in under 24 hours!
 
 
