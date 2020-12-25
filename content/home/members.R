@@ -9,15 +9,15 @@ title: 'Participating members'
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: r-project
-icon_pack: fab
-name: R
-description: 90
-- icon: chart-line
+  - icon: graduation-cap
 icon_pack: fas
-name: Statistics
-description: 100
-- icon: camera-retro
+name: 'Durham University'
+# description: 10
+  - icon: graduation-cap
 icon_pack: fas
-name: Photography
-description: 10
+name: 'Institute of Physics'
+# description: 90
+- icon: graduation-cap
+icon_pack: fas
+name: 'London Mathematical Society'
+# description: 100
