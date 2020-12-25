@@ -55,8 +55,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
+user_groups:
+- Founding partners
 ---
 
 Dr. Tony Hill was formerly a teacher in the North East before, in the 1970s, pursuing a career in the software industry. He went on to become Chief Executive Officer of Micro Focus, leading the company to a successful float on the London Stock Exchange in 2005.
