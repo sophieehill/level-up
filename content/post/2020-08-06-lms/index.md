@@ -7,7 +7,6 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-12-24T20:26:04-05:00'
 featured: yes
 image:
   caption: ''
@@ -16,7 +15,6 @@ image:
 projects: []
 ---
 
-Read the [press release](https://www.lms.ac.uk/news-entry/06082020-1524/levelling-scheme) from the London Mathematical Society below:
 
 <!--more-->
 
@@ -26,4 +24,4 @@ Read the [press release](https://www.lms.ac.uk/news-entry/06082020-1524/levellin
 
 > Through enhancing the A-level students’ engagement with mathematics, the Levelling Up Scheme aims to increase the diversity of students pursuing STEM degrees and, eventually, careers. Through providing mentoring to the tutors from experienced teachers, the scheme also aims to enrich the tutors’ teaching skills and knowledge, and improve the foundation on which they build the next step in their careers.
 
-
+Read the full [press release](https://www.lms.ac.uk/news-entry/06082020-1524/levelling-scheme) from the London Mathematical Society.

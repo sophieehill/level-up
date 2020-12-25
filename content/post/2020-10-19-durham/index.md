@@ -8,7 +8,6 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2020-12-24T21:14:32-05:00'
 featured: yes
 image:
   caption: ''
@@ -23,4 +22,4 @@ projects: []
 
 > "Here at Durham University we are passionate about helping students succeed, regardless of their background or circumstances. We are delighted that Dr Tony Hill’s gift will support us to do just that."
 
-Read the full [press release](https://www.dur.ac.uk/experience/news/?itemno=42895).
+Read the full [press release](https://www.dur.ac.uk/experience/news/?itemno=42895) from Durham University.
