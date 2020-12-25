@@ -1,7 +1,7 @@
 ---
 title: London Mathematical Society joins the Levelling Up scheme
 date: '2020-08-06'
-lastmod: '2020-08-06'
+lastmod: '2020-08-06T23:08:15-05:00'
 slug: lms
 categories: []
 tags: []
