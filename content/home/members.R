@@ -2,6 +2,7 @@
 widget: featurette
 headless: true  # This file represents a page section.
 title: 'Participating members'
+weight: 15
 ---
 
 
