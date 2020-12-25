@@ -17,9 +17,10 @@ advanced:
   css_class:
 ---
 
-The Levelling Up Scheme offers support to A-Level students from under-represented backgrounds in Maths, Chemistry, and Physics, including:
+Supporting A-Level students from under-represented backgrounds in Maths, Chemistry, and Physics.
 
-- academic tuition, mentoring and support
+The Levelling Up scheme includes:
+
+- academic mentoring and support
 - preparation for University
 - guest lectures from world leading academics
-
