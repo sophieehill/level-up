@@ -6,15 +6,15 @@ weight: 15
 feature:
   - icon: graduation-cap
     icon_pack: fas
-    name: R
-    description: 90%
+    name: 'Durham University'
+    description: 
   - icon: graduation-cap
     icon_pack: fas
-    name: Statistics
-    description: 100%
+    name: 'Institute of Physics'
+    description: 
   - icon: graduation-cap
     icon_pack: fas
-    name: Photography
-    description: 10%
+    name: 'London Mathematical Society'
+    description: 
 ---
 
