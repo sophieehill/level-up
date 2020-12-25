@@ -15,10 +15,9 @@ image:
 projects: []
 ---
 
+> Thanks to a generous donation from Dr Tony Hill, the LMS has started work on a new venture to support the provision of online tutoring for A-level Mathematics students who come from backgrounds that are under-represented in the mathematics community. 
 
 <!--more-->
-
-> Thanks to a generous donation from Dr Tony Hill, the LMS has started work on a new venture to support the provision of online tutoring for A-level Mathematics students who come from backgrounds that are under-represented in the mathematics community. 
 
 > Working with three or four universities initially, the pilot aims to bring together undergraduate student tutors with A-level mathematics students who wish to improve their grades to enable them to read a STEM degree. Each university would identify nearby schools with significant percentages of students from under-represented backgrounds and enlist the help of undergraduate students to tutor and engage with their A-level tutees.
 
