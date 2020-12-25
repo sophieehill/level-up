@@ -9,12 +9,16 @@ weight: 20  # Order that this section will appear.
 title: "How it works"
 ---
 
-The Levelling Up scheme includes:
+The Levelling Up scheme is targeted at Year 12 students from under-represented backgrounds who are aiming to pursue the study of Maths, Chemistry, or Physics at university. 
 
-- academic mentoring and support
-- preparation for University
+Students will be paired with one of the participating institutions and will receive both academic and pastoral support over the course of two years.
+
+There are three components to the programme:
+
+- academic tuition and support
+- mentoring to prepare for the transition to university
 - guest lectures from world leading academics
 
-Students will participate in a combination of self-study, tutorials, and group mentoring sessions in Maths, Chemistry, or Physics.
+The programme is designed to align with the A-level curriculum, with new topics covered in three-week cycles. Students will be expected to commit an average of one and a half hours per week to the programme.
 
 ![Flowchart depicting the schedule of a typical three-week cycle](/home/intro_files/flowchart.png)
