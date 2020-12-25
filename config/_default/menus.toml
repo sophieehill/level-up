@@ -15,9 +15,14 @@
   
 [[main]]
   name = "How it works"
-  url = "#intro"
+  url = "/#intro"
   weight = 30
 
+[[main]]
+  name = "Members"
+  url = "/#members"
+  weight = 40
+  
 # [[main]]
 #  name = "People"
 #  url = "people"
