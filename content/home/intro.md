@@ -23,4 +23,4 @@ The programme is designed to align with the A-level curriculum, with new topics 
 
 ![Flowchart depicting the schedule of a typical three-week cycle](/home/intro_files/flowchart.png)
 
-The first iteration of the programme will begin in February 2021, 
+The first iteration of the programme will begin in February 2021.
