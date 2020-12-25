@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: ""
+title: "Levelling Up"
 subtitle: ""
 hero_media: students2.jpg
 design:
@@ -17,10 +17,5 @@ advanced:
   css_class:
 ---
 
-Levelling Up: Supporting A-Level students from under-represented backgrounds in Maths, Chemistry, and Physics.
+Supporting A-Level students from under-represented backgrounds in Maths, Chemistry, and Physics.
 
-The Levelling Up scheme includes:
-
-- academic mentoring and support
-- preparation for University
-- guest lectures from world leading academics
