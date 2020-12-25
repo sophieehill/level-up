@@ -1,7 +1,7 @@
 ---
 title: Durham University joins the Levelling Up scheme
-author: ''
 date: '2020-10-19'
+lastmod: '2020-10-19'
 slug: durham
 categories: []
 tags: []
