@@ -4,15 +4,15 @@ headless: true  # This file represents a page section.
 title: 'Participating members'
 weight: 15
 feature:
-  - icon: r-project
-    icon_pack: fab
+  - icon: graduation-cap
+    icon_pack: fas
     name: R
     description: 90%
-  - icon: chart-line
+  - icon: graduation-cap
     icon_pack: fas
     name: Statistics
     description: 100%
-  - icon: camera-retro
+  - icon: graduation-cap
     icon_pack: fas
     name: Photography
     description: 10%
