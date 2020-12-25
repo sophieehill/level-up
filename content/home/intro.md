@@ -22,3 +22,5 @@ There are three components to the programme:
 The programme is designed to align with the A-level curriculum, with new topics covered in three-week cycles. Students will be expected to commit an average of one and a half hours per week to the programme.
 
 ![Flowchart depicting the schedule of a typical three-week cycle](/home/intro_files/flowchart.png)
+
+The first iteration of the programme will begin in February 2021, 
