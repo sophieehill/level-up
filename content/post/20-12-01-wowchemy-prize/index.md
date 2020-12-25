@@ -1,14 +1,18 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: London Mathematical Society joins the Levelling Up scheme
+date: 2020-08-06
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Thanks to a generous donation from Dr Tony Hill, the LMS has started work on a new venture to support the provision of online tutoring for A-level Mathematics students who come from backgrounds that are under-represented in the mathematics community. 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Working with three or four universities initially, the pilot aims to bring together undergraduate student tutors with A-level mathematics students who wish to improve their grades to enable them to read a STEM degree. Each university would identify nearby schools with significant percentages of students from under-represented backgrounds and enlist the help of undergraduate students to tutor and engage with their A-level tutees.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Through enhancing the A-level students’ engagement with mathematics, the Levelling Up Scheme aims to increase the diversity of students pursuing STEM degrees and, eventually, careers. Through providing mentoring to the tutors from experienced teachers, the scheme also aims to enrich the tutors’ teaching skills and knowledge, and improve the foundation on which they build the next step in their careers.
+
+The scheme therefore aims both to benefit tutors and tutees, and to widen participation in mathematics.
+
+[Read more](https://www.lms.ac.uk/news-entry/06082020-1524/levelling-scheme)
+
